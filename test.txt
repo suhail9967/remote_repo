@@ -1,0 +1,2 @@
+i want to ignore this file 
+i don't want to do nothing with this file 
